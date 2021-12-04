@@ -3,12 +3,17 @@ import {Entity, model, property} from '@loopback/repository';
 @model()
 export class Post extends Entity {
   @property({
-    type: 'string',
+    type: 'number',
     id: true,
     generated: false,
+  })
+  id?: number;
+
+  @property({
+    type: 'string',
     required: true,
   })
-  id: string;
+  slug: string;
 
   @property({
     type: 'string',

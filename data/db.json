@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "Post": 13
+  },
+  "models": {
+    "Post": {
+      "1": "{\"title\":\"Snowman\",\"content\":\"What do you call it when a snowman throws a tantrum? 'A meltdown.'\",\"slug\":\"snowman\",\"id\":1}",
+      "2": "{\"title\":\"Gym\",\"content\":\"Why do some couples go to the gym? Because they want their relationship to work out.\",\"slug\":\"gym\",\"id\":2}",
+      "3": "{\"title\":\"Water\",\"content\":\"Why is cold water so insecure? Because it’s never called hot.\",\"slug\":\"water\",\"id\":3}",
+      "4": "{\"title\":\"Lazy shoes\",\"content\":\"What kind of shoes does a lazy person wear? Loafers.\",\"slug\":\"lazy\",\"id\":4}",
+      "5": "{\"title\":\"Time travel\",\"content\":\"I was going to tell a time-traveling joke, but you guys didn’t like it.\",\"slug\":\"timetravel\",\"id\":5}",
+      "6": "{\"title\":\"Bread\",\"content\":\"What did the two pieces of bread say on their wedding day? It was loaf at first sight.\",\"slug\":\"bread\",\"id\":6}",
+      "7": "{\"title\":\"12 inches\",\"content\":\"Why can't a nose be 12 inches long? Because then it would be a foot.\",\"slug\":\"12inches\",\"id\":7}",
+      "8": "{\"title\":\"Chicken or Egg\",\"content\":\"I ordered a chicken and an egg from Amazon. I'll let you know...\",\"slug\":\"chickenegg\",\"id\":8}",
+      "9": "{\"title\":\"Knock-knock\",\"content\":\"Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize.\",\"slug\":\"knockknock\",\"id\":9}",
+      "10": "{\"title\":\"Psychiatrist\",\"content\":\"Why can't you hear a psychiatrist using the bathroom? Because the 'P' is silent.\",\"slug\":\"psychiatrist\",\"id\":10}",
+      "11": "{\"title\":\"Amazon Prime\",\"content\":\"What do you call two monkeys that share an Amazon account? 'Prime mates.'\",\"slug\":\"amazonprime\",\"id\":11}",
+      "12": "{\"title\":\"Santa\",\"content\":\"How much does it cost Santa to park his sleigh? Nothing, it's on the house.\",\"slug\":\"santa\",\"id\":12}"
+    }
+  }
+}
